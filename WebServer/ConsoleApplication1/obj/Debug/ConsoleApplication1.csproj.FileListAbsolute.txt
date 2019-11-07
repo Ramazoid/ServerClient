@@ -1,0 +1,6 @@
+D:\Herocraft\WebServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Herocraft\WebServer\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Herocraft\WebServer\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Herocraft\WebServer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Herocraft\WebServer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Herocraft\WebServer\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll

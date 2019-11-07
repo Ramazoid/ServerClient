@@ -1,0 +1,6 @@
+D:\Herocraft\postClient\postClient\obj\Debug\postClient.csprojResolveAssemblyReference.cache
+D:\Herocraft\postClient\postClient\bin\Debug\postClient.exe
+D:\Herocraft\postClient\postClient\bin\Debug\postClient.pdb
+D:\Herocraft\postClient\postClient\obj\Debug\postClient.exe
+D:\Herocraft\postClient\postClient\obj\Debug\postClient.pdb
+D:\Herocraft\postClient\postClient\bin\Debug\Newtonsoft.Json.dll
